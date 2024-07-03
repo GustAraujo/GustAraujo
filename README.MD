@@ -11,10 +11,10 @@
 
 <h3 align=left>Conhecimentos em: </h3>
   
-Planejamento e execução de casos de teste
-Criação de relatórios de Bugs
-Conhecimentos em Postman e Jira
-Testes em versões Mobile e Desktop com a ferramenta DevTools
+- Planejamento e execução de casos de teste
+- Criação de relatórios de Bugs
+- Conhecimentos em Postman e Jira
+- Testes em versões Mobile e Desktop com a ferramenta DevTools
 
 metodologias BDD e Scrum
 
