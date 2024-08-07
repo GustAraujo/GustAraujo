@@ -19,15 +19,15 @@
   </a>
 </div>
 
-###
+## De uma olhada em alguns dos meus projetos:
 
-<h2 align="left">De uma olhada nos meus projetos</h2>
+| Nome do projeto | Ferramentas | Observação |
+|-----------------|------------------|------------|
+| [Teste de regressão no site Urban.Routes](https://github.com/GustAraujo/Bootcamp-QA-Sprint-1) | Excel, Jira, Firefox, Google Chrome | Realizei um teste de regressão no site Urban.routes, que simula um aplicativo de viagens de carro e é utilizado para estudos. |
+| [Testes de API REST](https://github.com/GustAraujo/Bootcamp-QA-Sprint-4) | Excel, Jira, Postman, Swagger, ApiDoc | Tive uma introdução aos testes de Back-end, aprendi o que era API e sua função, fiz testes nela através da ferramenta Postman, vi também sobre Swagger e Apidoc e um pequeno entendimento do que é banco de dados. |
+| [Básico de banco de dados e Projeto final](https://github.com/GustAraujo/Bootcamp-QA-Sprint-5-e-Projeto-Final) | Excel, Jira, Firefox, Google Chrome, Postman, Swagger, Drawio | Fui apresentado ao console onde aprendi noções de sistemas operacionais, linhas de comando, gerenciar arquivos, diretórios e etc, e por fim, o último objetivo que engloba todos os testes que aprendi durante o bootcamp e apliquei em um projeto final. Fui apresentado ao console onde aprendi noções de sistemas operacionais, linhas de comando, gerenciar arquivos, diretórios e etc, e por fim, o último objetivo que engloba todos os testes que aprendi durante o bootcamp e apliquei em um projeto final.
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=GustAraujo&theme=dark" alt="Layout with last medium posts"  />
-</div>
+<h2 align="left"></h2>
 
 ###
 
