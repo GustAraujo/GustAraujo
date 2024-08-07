@@ -1,29 +1,56 @@
-<h1 align="center">Olá! Me chamo Gustavo</h1>
-<h3 align="center">Sou um recém-formado em Analista de QA na TripleTen Brasil, sempre buscando aprender mais!</h3>
+<h1 align="center">Olá, Me chamo Gustavo!</h1>
 
-- 🌱 Atualmente estou aprendendo **Lógica de Programação**
+###
 
-- 👯 Posso colaborar em **Projetos voluntários**
+<p align="left">Meu nome é Gustavo de Araujo, tenho 24 anos e me formei recentemente em analista de QA na TripleTen Brasil, além disso, possuo formação técnica em manutenção industrial, apesar dessa formação a minha paixão sempre foi computadores, sempre usei desde criança, mas nunca me imaginei trabalhar com isso, até o dia de hoje.<br><br>O bootcamp de QA me deu a capacidade de realizar <strong>testes manuais</strong> com qualidade, posso realizar <strong>testes em interface</strong> utilizando requisitos do Figma, e <strong>testes APIs na estrutura REST</strong> usando Postman, além de fazer <strong>relatórios de bugs</strong> utilizando a plataforma JIRA, sou <strong>capaz de criar mapas mentais e fluxogramas</strong> para melhor entendimento dos fluxos, também aprendi a fazer um <strong>caso de teste</strong> bem estruturado para não faltar nenhuma cobertura de testes.<br><br>Tudo isso foi aprendido usando a metodologia ágil <strong>Scrum</strong>, onde fiz os projetos baseados em Sprints divididas em duas semanas, o que me ensinou a determinar horários e prazos para as minhas entregas.<br><br>Esses são apenas os primeiros passos para o futuro da minha carreira, onde quero continuar aprendendo sempre mais!</p>
 
-- 📫 Meu contato é **Gustavo_araujoL@hotmail.com**
+###
 
-- 📄 Após o ensino médio, fiz curso de auxiliar de escritório em 2018, onde conheci Word e Excel e tive contato com computadores, em 2019 fiz técnico de informática, aprendi sobre hardware e um pouco de redes, mas ainda não era o que buscava, decidi mudar de área e acabei fazendo um técnico em manutenção industrial em 2020/2021, cheguei a atuar na área, porém ainda não era o que eu queria, em 2023 estudei o básico de HTML e CSS enquanto trabalhava em logística, mas esse ano descobri uma área que me identifiquei muito, que é a área de testes, me formei recentemente como analista de QA e estou com muita vontade de continuar aprendendo cada vez mais!
+<h2 align="left">Entre em contato comigo</h2>
 
-<h3 align=left>Conhecimentos em: </h3>
-  
-- Planejamento e execução de casos de teste
-- Criação de relatórios de Bugs
-- Conhecimentos em Postman e Jira
-- Testes em versões Mobile e Desktop com a ferramenta DevTools
+###
 
-metodologias BDD e Scrum
+<div align="left">
+  <a href="https://www.linkedin.com/in/gustavo-araujo-lima/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="Gustavo_araujoL@hotmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gustavo-araujo-lima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gustavo-araujo-lima" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<h2 align="left">De uma olhada nos meus projetos</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustaraujo&label=Profile%20views&color=0e75b6&style=flat" alt="gustaraujo" /> </p>
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=GustAraujo&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<h2 align="left">Eu trabalho com</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firefox/FF7139" height="40" alt="firefox logo"  />
+</div>
+
+###
